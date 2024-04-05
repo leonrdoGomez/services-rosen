@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Creacion de usuario" skipped="0" tests="1" time="3.23" timestamp="2024-04-05 01:36:44"><testcase name="Creacion de usuario metodo POST"><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;405&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;405&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;405&gt;.
+&#13;
+co.com.services.stepDefinitions.stepDefinition.puedoVerElCodigoDeRespuesta(stepDefinition.java:30)&#13;
+✽.Puedo ver el codigo de respuesta 200(file:///C:/Selenium/services-rosen/src/test/resources/features/user.feature:6)&#13;
+</system-err></testcase></testsuite>
